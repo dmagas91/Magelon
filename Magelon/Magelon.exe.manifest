@@ -364,14 +364,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Magelon.exe" size="655360">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Magelon.exe" size="773120">
       <assemblyIdentity name="Magelon" version="0.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ivEa11nsrmgpszuyLBlaC7paHi3TVigdbbZSw7pwTGE=</dsig:DigestValue>
+        <dsig:DigestValue>wR0NYkELYsxwujszIfg03GYJJljOwlUrA70qNgM1d+E=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -417,7 +417,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>7wSfxJR8ljKwpFC/cSghCRUut0Iw8OWEhm1F13ZCeXk=</dsig:DigestValue>
+      <dsig:DigestValue>mEbXKVEVjUyCG5lqxo5oSc2M2genRsXt73Ik2kbhlew=</dsig:DigestValue>
     </hash>
   </file>
   <file name="BazaMagelon_log.ldf" size="802816" writeableType="applicationData">
@@ -426,16 +426,16 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>KqE6fmDGPXKJk9t4C//RA4kYalz2uuhzwQB7jcia5KA=</dsig:DigestValue>
+      <dsig:DigestValue>b/Mnngg30nE0NWd5+qM8/0RIKxgGYWuX9A2SLF1haAc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Magelon.exe.config" size="1524">
+  <file name="Magelon.exe.config" size="1473">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>hz0tXkQdeaR2cst7LhN3Z0U11TrMD5XDFKKYqEhaOoo=</dsig:DigestValue>
+      <dsig:DigestValue>uu4gWhWQKjucrO9LWh7Cs+0YKCjWmorQxN0X6QsLn8w=</dsig:DigestValue>
     </hash>
   </file>
   <file name="wallet.ico" size="67646">
