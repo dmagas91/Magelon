@@ -364,14 +364,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Magelon.exe" size="773120">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Magelon.exe" size="772608">
       <assemblyIdentity name="Magelon" version="0.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>plZsKWa5vew14rUvGWPYh9P8YktzHE2tsX6s7pZY7Sk=</dsig:DigestValue>
+        <dsig:DigestValue>l/Y+meWvvd2aw/5nOfLkZfsLMoj0Gaqd5RuLJaysweU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -417,7 +417,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>mEbXKVEVjUyCG5lqxo5oSc2M2genRsXt73Ik2kbhlew=</dsig:DigestValue>
+      <dsig:DigestValue>dbr5bRm9Z9lighC1yzTQpluZ/ZF5e8o8OaiRi28HrOQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="BazaMagelon_log.ldf" size="802816" writeableType="applicationData">
@@ -426,7 +426,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>b/Mnngg30nE0NWd5+qM8/0RIKxgGYWuX9A2SLF1haAc=</dsig:DigestValue>
+      <dsig:DigestValue>P1zY+wtc0DZ/ZC9b/HI4iw56aDMIClATo7q3vZf+GJY=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Magelon.exe.config" size="1473">
