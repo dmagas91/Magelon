@@ -364,14 +364,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Magelon.exe" size="773120">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Magelon.exe" size="771584">
       <assemblyIdentity name="Magelon" version="0.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>VZiW0bO9+kMiV1BJS7k86tTlt4/kmMXXIohUcBPfuUc=</dsig:DigestValue>
+        <dsig:DigestValue>FQRedPtZ1uGCHtmJEQsvZaQq9Ckj+iMm2tUs5ehBmuo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
