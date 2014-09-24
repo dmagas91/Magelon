@@ -364,14 +364,38 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Magelon.exe" size="771584">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Magelon.exe" size="800256">
       <assemblyIdentity name="Magelon" version="0.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>4RyTby293itx2lfDCmysdTBS8YNHNWDfI4erTHlCQMI=</dsig:DigestValue>
+        <dsig:DigestValue>2XunLwj9s+8tNz046HTzGYNMzeJ2Mg7Pyr/v3XpqzE4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NAudio.dll" size="445952">
+      <assemblyIdentity name="NAudio" version="1.7.0.15" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>bfdaDNWZNUQacGNWezGe37W06gYrnEMMYioCEH0XnVo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NAudio.WindowsMediaFormat.dll" size="82944">
+      <assemblyIdentity name="NAudio.WindowsMediaFormat" version="1.0.1.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>MqnzPygSCZ3jN3lrMlsu2Wp++qMlEtc0tfkIW1gVzaw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -408,6 +432,18 @@
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
         <dsig:DigestValue>CS+dnD4t0cxc54uK/YjhTIRSjijtaP+X/Jar2CYZKqs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WpfAnimatedGif.dll" size="38400">
+      <assemblyIdentity name="WpfAnimatedGif" version="1.4.5.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>U84O3dCGFfvDzFzsgdiq3Of0Vwl5Qe7gRSo0qAQFftI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
